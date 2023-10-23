@@ -29,7 +29,7 @@ const Home = ({ name, title }) => {
     <section id="home" className="min-height">
       <img className="background" src={image} alt="error" />
       <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "17rem" }}>
-        <h1>{Nensi}</h1>
+        <h1>{}</h1>
         <h2>{}</h2>
       </div>
       <div style={{ position: "absolute", bottom: "3rem", left: "50%" }}>
