@@ -45,7 +45,7 @@ const projectList = [
   {
     title: "Hand Gesture Recognition ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "It basically python based project where I used mediapipi library to detect hand and its gesture.",
     url: "https://github.com/Nency-Ravaliya/hand-gesture-recognition-mediapipe.git",
   },
   {
