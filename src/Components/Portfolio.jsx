@@ -31,19 +31,19 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "HR Management System 🎉",
+    title: "HR Management System ",
     description:
       "The objective of this project was to create a dynamic website that could store and retrieve data from a DynamoDB database using AWS Lambda functions.",
     url: "https://github.com/Nency-Ravaliya/upskillcampus.git",
   },
   {
-    title: "Basic Banking System 🎉",
+    title: "Basic Banking System ",
     description:
       "A basic banking system which transfers money between multiple users and also record the transaction history.",
     url: "https://github.com/Nency-Ravaliya/Spark-Foundation.git",
   },
   {
-    title: "Hand Gesture Recognition 🎉",
+    title: "Hand Gesture Recognition ",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/Nency-Ravaliya/hand-gesture-recognition-mediapipe.git",

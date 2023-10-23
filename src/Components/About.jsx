@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/UNPLASH/city.jpg";
+import image from "../images/UNPLASH/flower.jpg";
 
 const imageAltText = "city background";
 
@@ -24,19 +24,19 @@ const imageAltText = "city background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am Nensi Ravaliya a Computer Science student from  Government Engineering College, Bhavnagar. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm Nency, and I'm currently on a journey towards my Bachelor's in Computer Engineering at GEC Bhavnagar. My passion for technology has been my guiding light throughout this incredible ride.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "MLSA Lead",
-  "Cloud Computing",
-  "Machine learning",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Microsoft Ambassador",
+  "Cloud Engineer",
+  "Machine learning enthusiast",
+  "Web development",
   "Android development",
+  "Team player",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "As a Microsoft Learn Student Ambassador (MLSA), I'm privileged to be part of a vibrant community of tech enthusiasts. It's an opportunity to connect with like-minded individuals and stay at the forefront of Microsoft's innovations.";
+  "As a Microsoft Learn Student Ambassador (MLSA), I'm privileged to be part of a vibrant community of tech enthusiasts. It's an opportunity to connect with like-minded individuals and stay at the forefront of Microsoft's innovations. I'm always eager to connect with others who share my passion for technology, explore new opportunities, and contribute to innovative projects.\n Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future.";
 
 const About = () => {
   return (
