@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "As a Microsoft Learn Student Ambassador (MLSA), I'm privileged to be part of a vibrant community of tech enthusiasts. It's an opportunity to connect with like-minded individuals and stay at the forefront of Microsoft's innovations. I'm always eager to connect with others who share my passion for technology, explore new opportunities, and contribute to innovative projects.\n Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future.";
+  "As a Microsoft Learn Student Ambassador (MLSA), I'm privileged to be part of a vibrant community of tech enthusiasts. It's an opportunity to connect with like-minded individuals and stay at the forefront of Microsoft's innovations. I'm always eager to connect with others who share my passion for technology, explore new opportunities, and contribute to innovative projects.";
 
 const About = () => {
   return (

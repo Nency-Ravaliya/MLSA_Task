@@ -29,7 +29,6 @@ const siteProps = {
   email: "Nensi.Ravaliya@studentambassadors.com",
   gitHub: "https://github.com/Nency-Ravaliya",
   linkedIn: "https://www.linkedin.com/in/nencyravaliya028/",
-  medium: "English",
   twitter: "https://twitter.com/NencyRavaliya",
   youTube: "",
 };
