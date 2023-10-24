@@ -27,9 +27,9 @@ const siteProps = {
   name: "Nensi Ravaliya",
   title: " Microsoft Ambassador",
   email: "Nensi.Ravaliya@studentambassadors.com",
-  gitHub: "https://github.com/Nency-Ravaliya",
-  linkedIn: "https://www.linkedin.com/in/nencyravaliya028/",
-  twitter: "https://twitter.com/NencyRavaliya",
+  gitHub: "Nency-Ravaliya",
+  linkedIn: "nencyravaliya028/",
+  twitter: "NencyRavaliya",
   youTube: "",
 };
 
