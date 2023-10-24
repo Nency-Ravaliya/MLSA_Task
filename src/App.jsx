@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Nensi Ravaliya",
-  title: "Microsoft Ambassador",
+  title: " Microsoft Ambassador",
   email: "Nensi.Ravaliya@studentambassadors.com",
   gitHub: "https://github.com/Nency-Ravaliya",
   linkedIn: "https://www.linkedin.com/in/nencyravaliya028/",

@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/UNPLASH/laptop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Jay Shree Krishna!";
 
 /**
  * Project list
@@ -45,7 +45,7 @@ const projectList = [
   {
     title: "Hand Gesture Recognition ",
     description:
-      "It basically python based project where I used mediapipi library to detect hand and its gesture.",
+      "It basically python based project where I used mediapipe library to detect hand landmark and its gesture.",
     url: "https://github.com/Nency-Ravaliya/hand-gesture-recognition-mediapipe.git",
   },
   {

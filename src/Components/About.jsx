@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/UNPLASH/flower.jpg";
 
-const imageAltText = "city background";
+const imageAltText = "Jay Shree Krishna!";
 
 /**
  * Sort description that expands on your title on the Home component.
